@@ -1,4 +1,5 @@
-# Task : Water Body Segmentation using DeepLabV3plus
+# Task : Water Body Segmentation using DeepLabV3plus 
+
 This project implements water body segmentation using the DeepLabV3+ model. Mainly focus on the importance of ASPP in Deeplab V3+ for extracting the water bodies. It includes code for training the model, evaluating its performance, and metrics calculations.
 
 # Files Required:
